@@ -4,4 +4,4 @@
 
 [**Research**](research.md)
 
-[**Miscellany**](misc.md)
+[**Etc**](misc.md)
